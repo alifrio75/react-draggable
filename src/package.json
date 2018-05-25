@@ -1,0 +1,16 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Todo listing",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "4.1.1",
+    "events": "1.1.1",
+    "flux": "3.1.2",
+    "react": "15.5.3",
+    "react-dom": "15.5.3",
+    "react-draggable": "3.0.5",
+    "reactstrap": "6.0.1"
+  }
+}
